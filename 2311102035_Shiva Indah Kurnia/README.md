@@ -4,14 +4,14 @@
   <br />
   <h3> Modul 01-02 Mobile <br> Hello World</h3>
   <br />
-  <img src="./assets/logo.png" alt="Logo" width="300"> 
+  <img src="./assets/TU.jpg" alt="Logo" width="300"> 
   <br />
   <br />
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>Kanasya Abdi Aziz</strong><br>
-    <strong>2311102140</strong><br>
+    <strong>Shiva Indah Kurnia</strong><br>
+    <strong>2311102035</strong><br>
     <strong>S1 IF-11-01</strong>
   </p>
   <br />
@@ -33,7 +33,7 @@
 ## 1. Penjelasan Lengkap Pembuatan Proyek
 
 ### A. Flutter
-Flutter adalah framework sumber terbuka (open-source) yang dikembangkan oleh Google untuk membangun aplikasi antarmuka (UI) yang cantik, dikompilasi secara asli (natively compiled), dan berperforma tinggi hanya dari satu basis kode tunggal. Berbeda dengan pendekatan tradisional yang memerlukan kode terpisah untuk setiap platform, Flutter memungkinkan pengembang untuk menulis kode sekali dan menjalankannya di berbagai lingkungan seperti Android, iOS, web, hingga desktop. Menggunakan bahasa pemrograman Dart, Flutter mengandalkan sistem widget yang sangat fleksibel, di mana hampir setiap elemen di layar adalah komponen yang bisa dikustomisasi sepenuhnya. Salah satu fitur unggulannya adalah Stateful Hot Reload, yang memungkinkan pengembang melihat perubahan kode secara instan tanpa harus mengulang proses restart aplikasi, sehingga mempercepat siklus pengembangan secara signifikan.
+Flutter merupakan kerangka kerja sumber terbuka besutan Google yang dirancang untuk menciptakan antarmuka aplikasi berperforma tinggi melalui satu basis kode tunggal. Berbeda dengan metode pengembangan konvensional, teknologi ini memungkinkan implementasi aplikasi pada berbagai platform seperti Android, iOS, web, dan desktop secara efisien. Mengandalkan bahasa Dart dan arsitektur berbasis widget, Flutter menawarkan fleksibilitas penuh dalam kustomisasi elemen visual. Selain itu, fitur Stateful Hot Reload menjadi nilai tambah yang krusial dalam mempercepat proses pengembangan karena mampu menampilkan pembaruan kode secara real-time.
 
 ### Hasil Penugasan
 ![Tampilan](./assets/1.png)
